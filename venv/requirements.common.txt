@@ -1,3 +1,4 @@
 ujson==1.35
 setproctitle==1.1.10
--e git+https://github.com/eBay/accelerator-gzutil.git@1c210a0812fab67b27fe590b48c246d48f365970#egg=gzutil
+cffi==1.7.0
+-e git+https://github.com/eBay/accelerator-gzutil.git@5c532ab00ebb93f3e6ec74a06ddfa82d9f1b8684#egg=gzutil
